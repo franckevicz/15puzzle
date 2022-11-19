@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>PlayBoard.qml</file>
+        <file>Footer.qml</file>
+        <file>WinningPopUp.qml</file>
+    </qresource>
+</RCC>
